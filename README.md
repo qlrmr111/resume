@@ -17,7 +17,7 @@
     - 세부전공 : 전자통신
 
 ### 1.3 Skills
-* Swift, SwiftUI
+* Swift, SwiftUI, UIKit
 * Java
 * HTML, CSS, Javascript
 * Kotlin
