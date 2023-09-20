@@ -4,7 +4,7 @@
 
 ### 1.1 Profile
 
-이름 : 권운기
+* 이름 : 권운기
 * 생년월일 : 1998-06-24
 * e-mail : qlrmr111@naver.com
 * GitHub : https://github.com/qlrmr111
