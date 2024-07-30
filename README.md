@@ -30,6 +30,7 @@
 
 ### 1.5 Acivities
 * TECHIT 앱 스쿨 3기 : iOS - 2023.09 ~ 2024.02
+  - 최종 프로젝트 GitHub Link - https://github.com/APP-iOS3rd/PJ3T3_Postie
 * '포스티' 앱 스토어 정식 출시 - 2024.02 ~
   - https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%ED%8B%B0-postie/id6478052812
 
