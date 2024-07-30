@@ -18,17 +18,22 @@
 
 ### 1.3 Skills
 * Swift, SwiftUI, UIKit
-* Java
-* HTML, CSS, Javascript
-* Kotlin
+* Java, Kotlin
+* Figma, Figjam
+* Firebase, Kingfisher
+* Procreate
+* Git, GitHub
 
 ### 1.4 Awards
 * 산학공동기술개발과제사업 - Link 3.0 : 22년 장려상
+  - 대학 졸업 프로젝트 - 안드로이드 앱 개발 담당
 
 ### 1.5 Acivities
-* TECHIT 앱 스쿨 3기 : IOS - 2023.09 ~ 2024.02
+* TECHIT 앱 스쿨 3기 : iOS - 2023.09 ~ 2024.02
+* '포스티' 앱 스토어 정식 출시 - 2024.02 ~
+  - https://apps.apple.com/kr/app/%ED%8F%AC%EC%8A%A4%ED%8B%B0-postie/id6478052812
 
 
 ### 1.6 Objectives
-* 모바일 어플 개발에 관심이 있으며, 현재 IOS 어플 개발 공부에 몰두하고있습니다.
-* 최종 목표는 안드로이드/IOS 두 분야에서의 네이티브 어플 개발자입니다.
+* 모바일 앱 개발에 관심이 있으며, 현재 iOS 네이티브 앱 개발 공부에 몰두하고있습니다.
+* 최종 목표는 안드로이드/iOS 두 분야에서의 네이티브 앱 개발자입니다.
